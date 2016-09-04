@@ -7,7 +7,7 @@ WebFontConfig = {
 
     //  The Google Fonts we want to load (specify as many as you like in the array)
     google: {
-        families: ['Anonymous+Pro']
+        families: ['Inconsolata']
     }
 };
 
